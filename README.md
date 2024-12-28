@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hello! 👋
+I'm [Andrew], a developer with experience in C++, Python, JavaScript
 
-<!--
-**Krane117/Krane117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎯 I specialize in creating modern web applications, API integration, and developing server solutions. 
+I try to make code that not only works, but is also easy to maintain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🛠️ I use in my work:
+- Languages: C++, Python, JavaScript
+- Frameworks: React, Next.js, Django
+- Tools: Docker, Kubernetes, GitHub Actions
+
+
+📫 Contact me:
+- Email: kraneposey@gmail.com
+- LinkedIn: [Andrii Ursulyan]([https://linkedin.com/in/username](https://www.linkedin.com/in/andrii-ursulyan-9a4405242/))
+- Phone: +393515590446
+- Telegram: [Andrew](https://t.me/kraneposey)
