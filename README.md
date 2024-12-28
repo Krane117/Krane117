@@ -14,6 +14,6 @@ I try to make code that not only works, but is also easy to maintain.
 
 📫 Contact me:
 - Email: kraneposey@gmail.com
-- LinkedIn: [Andrii Ursulyan]([https://linkedin.com/in/username](https://www.linkedin.com/in/andrii-ursulyan-9a4405242/))
+- LinkedIn: [Andrii Ursulyan](https://linkedin.com/in/username](https://www.linkedin.com/in/andrii-ursulyan-9a4405242/)
 - Phone: +393515590446
 - Telegram: [Andrew](https://t.me/kraneposey)
